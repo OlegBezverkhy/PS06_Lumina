@@ -2,8 +2,8 @@
  Решение задания PS06
 
 ### Способ №1 - Scrapy
-#### Файл с кодом: luminanewpars.py
-#### Вывод результатов: output.csv
+#### Файл с кодом: ./luminapars/puminapars/spider/luluminanewpars.py
+#### Вывод результатов: ./luminapars/puminapars/spider/output.csv
 
 Использование стандартной функциональности Scrapy - экспорт фидов, 
 которая позволяет создавать фиды с извлеченными элементами, используя 
